@@ -43,7 +43,7 @@ const renderTransactions = () => {
             <img src="pen.png" alt="pen" />
         </div>
         <div class="icon-trash" onclick="handleDelete(${id})">
-            <img src="/trash-can.png" alt="trash" />
+            <img src="trash-can.png" alt="trash" />
         </div>
         </div>
   </div>`;
