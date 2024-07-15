@@ -40,7 +40,7 @@ const renderTransactions = () => {
         </div>
         <div class="lower">
         <div class="icon-pen" onclick="handleUpdate(${id})">
-            <img src="/pen.png" alt="pen" />
+            <img src="pen.png" alt="pen" />
         </div>
         <div class="icon-trash" onclick="handleDelete(${id})">
             <img src="/trash-can.png" alt="trash" />
